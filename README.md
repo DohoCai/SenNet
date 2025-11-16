@@ -3,10 +3,10 @@ This repository contains the code and data to reproduce the results of SenNet ma
 
 ## SenNet
 The folder contains the code to reproduce the results from SenNet model for scRNA-seq, TSS, H3K27ac and ATAC. Please download the bigwig files from GEO database. 
-[SenNet_RNA.ipynb](SenNet/SenNet_RNA.ipynb) It contains code for SenNet-RNA model to evaluate the senescent level from scRNA-seq dataset. 
-[SenNet_TSS.ipynb](SenNet/SenNet_TSS.ipynb) It contains the SenNet-TSS sequence model to learn the senescent-related motifs from GRO-Cap data. 
-[SenNet_H3K27ac.ipynb](SenNet/SenNet_H3K27ac.ipynb) SenNet-H3K27ac model is used to capture the sequence dependents for H3K27ac activation of RLTR6/MMVL30. 
-[SenNet_ATAC.ipynb](SenNet/SenNet_ATAC.ipynb) SenNet-ATAC model is used to capture the sequence dependents for ATAC signal activation of RLTR6/MMVL30. 
+- [SenNet_RNA.ipynb](SenNet/SenNet_RNA.ipynb) It contains code for SenNet-RNA model to evaluate the senescent level from scRNA-seq dataset. 
+- [SenNet_TSS.ipynb](SenNet/SenNet_TSS.ipynb) It contains the SenNet-TSS sequence model to learn the senescent-related motifs from GRO-Cap data. 
+- [SenNet_H3K27ac.ipynb](SenNet/SenNet_H3K27ac.ipynb) SenNet-H3K27ac model is used to capture the sequence dependents for H3K27ac activation of RLTR6/MMVL30. 
+- [SenNet_ATAC.ipynb](SenNet/SenNet_ATAC.ipynb) SenNet-ATAC model is used to capture the sequence dependents for ATAC signal activation of RLTR6/MMVL30. 
 
 ## scRNA_scATAC
 The folder contains the scRNA and scATAC analyses code for hematopoietic and non hematopoietic cells from mouse bone marrow in Jupyter Notebook format. Please download the scRNA and scATAC data from GEO database. 
