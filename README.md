@@ -1,1 +1,1 @@
-# SenNet
+# SenNet Manuscript
