@@ -1,5 +1,5 @@
 # SenNet Manuscript
-This repository contains the code and data used to reproduce the analyses in the SenNet manuscript, including sequence-based senescence models and single-cell transcriptomic/epigenomic analyses.
+This repository contains the code and data used to reproduce the analyses in the SenNet manuscript "**Senescence Chromatin-Activated Retrotransposons in Stromal Microenvironment Promotes Hematopoietic Aging and Malignancy**", including sequence-based SenNet models and single-cell transcriptomic/epigenomic analyses.
 
 ## SenNet
 The [SenNet](SenNet/) folder includes code for all SenNet deep learning models across scRNA-seq, TSS (GRO-Cap), H3K27ac, and ATAC modalities. Note: BigWig signals required for model training should be downloaded from the corresponding GEO datasets.
